@@ -14,7 +14,7 @@ cout << "El mes tiene 28 o 29 dias.\n";
 else if (mes == 4 || mes == 6 || mes == 9 || mes == 11)
 cout << "El mes tiene 30 dias.\n";
 else
-cout << "¡Imposible!\n";
+cout << "Â¡Imposible!\n";
 else
-cout << "El valor introducido no es válido.\n";
+cout << "El valor introducido no es vÃ¡lido.\n";
 }
