@@ -4,7 +4,7 @@ int main(){
 double calificacion;
 cout << "Ingrese la calificacion: ";
 cin >> calificacion;
-if( calificacion >= 90 ) // 90 o m·s recibe una "A"
+if( calificacion >= 90 ) // 90 o m√°s recibe una "A"
 cout << "A";
 else if (calificacion >= 80 ) // 80 a 89 recibe una "B"
 cout << "B";
